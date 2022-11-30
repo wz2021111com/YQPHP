@@ -15,6 +15,10 @@ YIQQ 服务端源码
 
 
 
-
+服务端免費版
 https://wwkp.lanzoum.com/iv4fb0hcj4le
+
+客服端app开源
+https://github.com/wz2021111com/YiQQ
+
 
