@@ -1,0 +1,10 @@
+<?php
+error_reporting(0);
+
+$fp=fopen("***/YiQQ.php","a+");
+$datb= fgets($fp);
+echo $datb;
+fclose($fp);
+  
+  
+?>
